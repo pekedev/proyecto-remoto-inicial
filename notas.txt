@@ -1,2 +1,6 @@
 Notas del proyecto
+<<<<<<< HEAD
 Línea agregada desde la segunda copia
+=======
+Línea agregada desde la primera copia
+>>>>>>> 0acbd7da1781fdc8aa697848d270c85ec8ae224d
